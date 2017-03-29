@@ -14,7 +14,7 @@ Web application for Agency Property for Property Management
 * Setting site
 
 ## More Feature
-Please contact wiwat_srt@hotmail.com
+Please contact us
 
 ## License
 
