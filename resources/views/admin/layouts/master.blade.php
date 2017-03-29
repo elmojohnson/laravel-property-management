@@ -48,7 +48,7 @@
     <div class="pull-right hidden-xs">
         <b>Version</b> 0.0.1
     </div>
-    <strong>Copyright &copy; 2016 <a href="http://www.srisattha.com">Wiwat Srisattha</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; <?php echo date('Y'); ?> <a href="http://www.statum.co.ke">Statum</a>.</strong> All rights reserved.
 </footer>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
